@@ -1,0 +1,12 @@
+# Rapport d’évaluation – 2025-05-23 11:59:45.717378
+
+              precision    recall  f1-score   support
+
+       EVENT       0.00      0.00      0.00         0
+         LOC       0.00      0.00      0.00         0
+         ORG       0.00      0.00      0.00         0
+         PER       0.33      0.67      0.44         3
+
+   micro avg       0.02      0.67      0.04         3
+   macro avg       0.08      0.17      0.11         3
+weighted avg       0.33      0.67      0.44         3
